@@ -5,6 +5,11 @@ public class Main {
         System.out.println("ЗАДАЧА2--------------------------------");
         for (int a=10;a>0;a--){
             System.out.println(a);
+
+        }
+        System.out.println("ЗАДАЧА3-------------------------------- ");
+        for (int b = 0; b<17; b=b+2){
+            System.out.println(b);
         }
     }
 }
