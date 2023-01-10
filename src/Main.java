@@ -11,5 +11,10 @@ public class Main {
         for (int b = 0; b<17; b=b+2){
             System.out.println(b);
         }
+        System.out.println("ЗАДАЧА4----------------------------------");
+        for(int i=10; i>-11;i-- ){
+            System.out.println(i);
+        }
+
     }
 }
