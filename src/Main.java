@@ -23,6 +23,10 @@ public class Main {
         for (int i=7;i<100;i=i+7){
             System.out.println(i);
         }
+        System.out.println("ЗАДАЧА7-------------------------------------");
+        for (int i=1;i<512;i=i*2) {
+            System.out.println(i);
+        }
 
     }
 }
