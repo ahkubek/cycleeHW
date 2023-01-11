@@ -3,8 +3,8 @@ public class Main {
         for (int i = 0; i < 11; i++)
             System.out.println(i);
         System.out.println("ЗАДАЧА2--------------------------------");
-        for (int a = 10; a > 0; a--) {
-            System.out.println(a);
+        for (int i = 10; i > 0; i--) {
+            System.out.println(i);
 
         }
         System.out.println("ЗАДАЧА3-------------------------------- ");
@@ -26,6 +26,14 @@ public class Main {
         System.out.println("ЗАДАЧА7-------------------------------------");
         for (int i=1;i<512;i=i*2) {
             System.out.println(i);
+        }
+        System.out.println("ЗАДАЧА 8--------------------------------------");
+        int contribution=29;
+        int total=0;
+
+                for (int i =0;i<12;i++){
+                    total=total+contribution;
+                    System.out.println(total);
         }
 
     }
