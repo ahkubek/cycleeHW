@@ -46,5 +46,14 @@ public class Main {
         }
         System.out.println("ЗАДАЧА 10--------------------------------------");
 
+
+        for (int i=1; i<11;i++){
+            int b=i*2;
+            System.out.println("2*"+i+"="+b);
+
+
+
+        }
+
     }
 }
